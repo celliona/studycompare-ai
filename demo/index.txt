@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"static/chunks/594-8dbe45cfa80f8c3f.js"
+3:"static/chunks/app/layout-d4148c9d464a30ac.js"
+4:I[9231,["594","$2","177","$3"],"LocaleProvider"]
+5:I[8569,["594","$2","177","$3"],"default"]
+6:I[4827,[],""]
+7:I[5079,[],""]
+8:"static/chunks/app/not-found-ae2383c1e4d14cf2.js"
+9:I[9969,["594","$2","345","$8"],"default"]
+d:"static/chunks/app/demo/page-6b6a43322e66f9b1.js"
+e:I[676,["436","$d"],"default"]
+f:I[3298,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[3298,[],"$12"]
+15:"MetadataBoundary"
+16:I[3298,[],"$15"]
+18:I[3089,[],"default",1]
+:HL["/studycompare-ai/_next/static/css/8708d849a85ada50.css","style"]
+b:X
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"demo","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","demo",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/studycompare-ai/_next/static/css/8708d849a85ada50.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CCDiFReEVrqAxFoMEOlE3"}
+b:C
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+17:[["$","title","0",{"children":"StudyCompare AI · 更清晰的留学选择"}],["$","meta","1",{"name":"description","content":"美国本科院校横向比较 · 本地演示"}]]

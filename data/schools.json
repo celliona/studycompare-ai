@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "uf",
+    "name": "University of Florida",
+    "chinese_name": "佛罗里达大学",
+    "city": "Gainesville",
+    "state": "FL",
+    "school_type": "公立",
+    "website": "https://www.ufl.edu/",
+    "description": "佛罗里达大学，位于美国 Gainesville。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 36000,
+      "housing": 13000,
+      "food": 5200,
+      "mandatory_fees": 1700,
+      "insurance": 2600,
+      "other_estimated_costs": 2200,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 32945.1,
+        "housing": 11896.84,
+        "food": 4758.74,
+        "mandatory_fees": 1555.74,
+        "insurance": 2379.37,
+        "other_estimated_costs": 2013.31,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 33933.45,
+        "housing": 12253.75,
+        "food": 4901.5,
+        "mandatory_fees": 1602.41,
+        "insurance": 2450.75,
+        "other_estimated_costs": 2073.71,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 34951.46,
+        "housing": 12621.36,
+        "food": 5048.54,
+        "mandatory_fees": 1650.49,
+        "insurance": 2524.27,
+        "other_estimated_costs": 2135.92,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 30,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UF",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.ufl.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "ut-austin",
+    "name": "University of Texas at Austin",
+    "chinese_name": "得克萨斯大学奥斯汀分校",
+    "city": "Austin",
+    "state": "TX",
+    "school_type": "公立",
+    "website": "https://www.utexas.edu/",
+    "description": "得克萨斯大学奥斯汀分校，位于美国 Austin。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 36550,
+      "housing": 13110,
+      "food": 5245,
+      "mandatory_fees": 1725,
+      "insurance": 2620,
+      "other_estimated_costs": 2215,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 33380.32,
+        "housing": 11973.08,
+        "food": 4790.15,
+        "mandatory_fees": 1575.41,
+        "insurance": 2392.79,
+        "other_estimated_costs": 2022.91,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 34405.1,
+        "housing": 12340.65,
+        "food": 4937.2,
+        "mandatory_fees": 1623.77,
+        "insurance": 2466.25,
+        "other_estimated_costs": 2085.01,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 35461.34,
+        "housing": 12719.51,
+        "food": 5088.77,
+        "mandatory_fees": 1673.62,
+        "insurance": 2541.96,
+        "other_estimated_costs": 2149.02,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 30,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UT",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.utexas.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "gatech",
+    "name": "Georgia Institute of Technology",
+    "chinese_name": "佐治亚理工学院",
+    "city": "Atlanta",
+    "state": "GA",
+    "school_type": "公立",
+    "website": "https://www.gatech.edu/",
+    "description": "佐治亚理工学院，位于美国 Atlanta。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 37100,
+      "housing": 13220,
+      "food": 5290,
+      "mandatory_fees": 1750,
+      "insurance": 2640,
+      "other_estimated_costs": 2230,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 33813.69,
+        "housing": 12048.97,
+        "food": 4821.41,
+        "mandatory_fees": 1594.99,
+        "insurance": 2406.15,
+        "other_estimated_costs": 2032.47,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 34875.44,
+        "housing": 12427.31,
+        "food": 4972.8,
+        "mandatory_fees": 1645.07,
+        "insurance": 2481.7,
+        "other_estimated_costs": 2096.29,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 35970.53,
+        "housing": 12817.53,
+        "food": 5128.95,
+        "mandatory_fees": 1696.72,
+        "insurance": 2559.63,
+        "other_estimated_costs": 2162.11,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 32,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "GT",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.gatech.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "nyu",
+    "name": "New York University",
+    "chinese_name": "纽约大学",
+    "city": "New York",
+    "state": "NY",
+    "school_type": "私立",
+    "website": "https://www.nyu.edu/",
+    "description": "纽约大学，位于美国 New York。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 60650,
+      "housing": 13330,
+      "food": 5335,
+      "mandatory_fees": 1775,
+      "insurance": 2660,
+      "other_estimated_costs": 2245,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 55165.23,
+        "housing": 12124.53,
+        "food": 4852.54,
+        "mandatory_fees": 1614.48,
+        "insurance": 2419.45,
+        "other_estimated_costs": 2041.98,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 56936.04,
+        "housing": 12513.72,
+        "food": 5008.31,
+        "mandatory_fees": 1666.31,
+        "insurance": 2497.11,
+        "other_estimated_costs": 2107.53,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 58763.69,
+        "housing": 12915.42,
+        "food": 5169.07,
+        "mandatory_fees": 1719.79,
+        "insurance": 2577.27,
+        "other_estimated_costs": 2175.18,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 32,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "NYU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.nyu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uc-davis",
+    "name": "University of California, Davis",
+    "chinese_name": "加州大学戴维斯分校",
+    "city": "Davis",
+    "state": "CA",
+    "school_type": "公立",
+    "website": "https://www.ucdavis.edu/",
+    "description": "加州大学戴维斯分校，位于美国 Davis。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 38200,
+      "housing": 13440,
+      "food": 5380,
+      "mandatory_fees": 1800,
+      "insurance": 2680,
+      "other_estimated_costs": 2260,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 34674.86,
+        "housing": 12199.74,
+        "food": 4883.53,
+        "mandatory_fees": 1633.89,
+        "insurance": 2432.69,
+        "other_estimated_costs": 2051.44,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 35812.19,
+        "housing": 12599.89,
+        "food": 5043.71,
+        "mandatory_fees": 1687.49,
+        "insurance": 2512.48,
+        "other_estimated_costs": 2118.73,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 36986.83,
+        "housing": 13013.17,
+        "food": 5209.14,
+        "mandatory_fees": 1742.84,
+        "insurance": 2594.89,
+        "other_estimated_costs": 2188.23,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 32,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UCD",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.ucdavis.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uc-irvine",
+    "name": "University of California, Irvine",
+    "chinese_name": "加州大学欧文分校",
+    "city": "Irvine",
+    "state": "CA",
+    "school_type": "公立",
+    "website": "https://www.uci.edu/",
+    "description": "加州大学欧文分校，位于美国 Irvine。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 38750,
+      "housing": 13550,
+      "food": 5425,
+      "mandatory_fees": 1825,
+      "insurance": 2700,
+      "other_estimated_costs": 2275,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 35102.68,
+        "housing": 12274.61,
+        "food": 4914.38,
+        "mandatory_fees": 1653.22,
+        "insurance": 2445.86,
+        "other_estimated_costs": 2060.87,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 36278.62,
+        "housing": 12685.81,
+        "food": 5079.01,
+        "mandatory_fees": 1708.61,
+        "insurance": 2527.8,
+        "other_estimated_costs": 2129.91,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 37493.95,
+        "housing": 13110.79,
+        "food": 5249.15,
+        "mandatory_fees": 1765.84,
+        "insurance": 2612.48,
+        "other_estimated_costs": 2201.26,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 32,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UCI",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.uci.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "bc",
+    "name": "Boston College",
+    "chinese_name": "波士顿学院",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "school_type": "私立",
+    "website": "https://www.bc.edu/",
+    "description": "波士顿学院，位于美国 Chestnut Hill。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 62300,
+      "housing": 13660,
+      "food": 5470,
+      "mandatory_fees": 1850,
+      "insurance": 2720,
+      "other_estimated_costs": 2290,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 56321.53,
+        "housing": 12349.15,
+        "food": 4945.08,
+        "mandatory_fees": 1672.47,
+        "insurance": 2458.98,
+        "other_estimated_costs": 2070.25,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 58247.73,
+        "housing": 12771.49,
+        "food": 5114.21,
+        "mandatory_fees": 1729.67,
+        "insurance": 2543.08,
+        "other_estimated_costs": 2141.05,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 60239.8,
+        "housing": 13208.28,
+        "food": 5289.11,
+        "mandatory_fees": 1788.82,
+        "insurance": 2630.05,
+        "other_estimated_costs": 2214.27,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 36,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "BC",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.bc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "tufts",
+    "name": "Tufts University",
+    "chinese_name": "塔夫茨大学",
+    "city": "Medford",
+    "state": "MA",
+    "school_type": "私立",
+    "website": "https://www.tufts.edu/",
+    "description": "塔夫茨大学，位于美国 Medford。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 62850,
+      "housing": 13770,
+      "food": 5515,
+      "mandatory_fees": 1875,
+      "insurance": 2740,
+      "other_estimated_costs": 2305,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 56703.53,
+        "housing": 12423.35,
+        "food": 4975.66,
+        "mandatory_fees": 1691.63,
+        "insurance": 2472.04,
+        "other_estimated_costs": 2079.58,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 58682.49,
+        "housing": 12856.93,
+        "food": 5149.31,
+        "mandatory_fees": 1750.67,
+        "insurance": 2558.31,
+        "other_estimated_costs": 2152.16,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 60730.51,
+        "housing": 13305.63,
+        "food": 5329.02,
+        "mandatory_fees": 1811.77,
+        "insurance": 2647.6,
+        "other_estimated_costs": 2227.27,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 36,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "TUFTS",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.tufts.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uiuc",
+    "name": "University of Illinois Urbana-Champaign",
+    "chinese_name": "伊利诺伊大学厄巴纳香槟分校",
+    "city": "Champaign",
+    "state": "IL",
+    "school_type": "公立",
+    "website": "https://www.illinois.edu/",
+    "description": "伊利诺伊大学厄巴纳香槟分校，位于美国 Champaign。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 40400,
+      "housing": 13880,
+      "food": 5560,
+      "mandatory_fees": 1900,
+      "insurance": 2760,
+      "other_estimated_costs": 2320,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 36375.19,
+        "housing": 12497.22,
+        "food": 5006.09,
+        "mandatory_fees": 1710.71,
+        "insurance": 2485.04,
+        "other_estimated_costs": 2088.87,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 37670.14,
+        "housing": 12942.12,
+        "food": 5184.31,
+        "mandatory_fees": 1771.62,
+        "insurance": 2573.5,
+        "other_estimated_costs": 2163.24,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 39011.2,
+        "housing": 13402.86,
+        "food": 5368.87,
+        "mandatory_fees": 1834.69,
+        "insurance": 2665.12,
+        "other_estimated_costs": 2240.25,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 36,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UIUC",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.illinois.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uw-madison",
+    "name": "University of Wisconsin–Madison",
+    "chinese_name": "威斯康星大学麦迪逊分校",
+    "city": "Madison",
+    "state": "WI",
+    "school_type": "公立",
+    "website": "https://www.wisc.edu/",
+    "description": "威斯康星大学麦迪逊分校，位于美国 Madison。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 40950,
+      "housing": 13990,
+      "food": 5605,
+      "mandatory_fees": 1925,
+      "insurance": 2780,
+      "other_estimated_costs": 2335,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 36795.73,
+        "housing": 12570.75,
+        "food": 5036.39,
+        "mandatory_fees": 1729.71,
+        "insurance": 2497.98,
+        "other_estimated_costs": 2098.12,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 38131.41,
+        "housing": 13027.07,
+        "food": 5219.21,
+        "mandatory_fees": 1792.5,
+        "insurance": 2588.65,
+        "other_estimated_costs": 2174.28,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 39515.58,
+        "housing": 13499.95,
+        "food": 5408.67,
+        "mandatory_fees": 1857.57,
+        "insurance": 2682.62,
+        "other_estimated_costs": 2253.21,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 36,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UW–M",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.wisc.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "ucsb",
+    "name": "University of California, Santa Barbara",
+    "chinese_name": "加州大学圣塔芭芭拉分校",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "school_type": "公立",
+    "website": "https://www.ucsb.edu/",
+    "description": "加州大学圣塔芭芭拉分校，位于美国 Santa Barbara。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 41500,
+      "housing": 14100,
+      "food": 5650,
+      "mandatory_fees": 1950,
+      "insurance": 2800,
+      "other_estimated_costs": 2350,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 37214.47,
+        "housing": 12643.95,
+        "food": 5066.55,
+        "mandatory_fees": 1748.63,
+        "insurance": 2510.86,
+        "other_estimated_costs": 2107.33,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 38591.4,
+        "housing": 13111.78,
+        "food": 5254.01,
+        "mandatory_fees": 1813.33,
+        "insurance": 2603.76,
+        "other_estimated_costs": 2185.3,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 40019.29,
+        "housing": 13596.91,
+        "food": 5448.41,
+        "mandatory_fees": 1880.42,
+        "insurance": 2700.1,
+        "other_estimated_costs": 2266.15,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 40,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UCSB",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.ucsb.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "ohio-state",
+    "name": "Ohio State University",
+    "chinese_name": "俄亥俄州立大学",
+    "city": "Columbus",
+    "state": "OH",
+    "school_type": "公立",
+    "website": "https://www.osu.edu/",
+    "description": "俄亥俄州立大学，位于美国 Columbus。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 42050,
+      "housing": 14210,
+      "food": 5695,
+      "mandatory_fees": 1975,
+      "insurance": 2820,
+      "other_estimated_costs": 2365,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 37631.42,
+        "housing": 12716.82,
+        "food": 5096.57,
+        "mandatory_fees": 1767.47,
+        "insurance": 2523.68,
+        "other_estimated_costs": 2116.49,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 39050.12,
+        "housing": 13196.25,
+        "food": 5288.71,
+        "mandatory_fees": 1834.1,
+        "insurance": 2618.82,
+        "other_estimated_costs": 2196.28,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 40522.31,
+        "housing": 13693.75,
+        "food": 5488.1,
+        "mandatory_fees": 1903.25,
+        "insurance": 2717.55,
+        "other_estimated_costs": 2279.08,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 41,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "OSU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.osu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "bu",
+    "name": "Boston University",
+    "chinese_name": "波士顿大学",
+    "city": "Boston",
+    "state": "MA",
+    "school_type": "私立",
+    "website": "https://www.bu.edu/",
+    "description": "波士顿大学，位于美国 Boston。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 65600,
+      "housing": 14320,
+      "food": 5740,
+      "mandatory_fees": 2000,
+      "insurance": 2840,
+      "other_estimated_costs": 2380,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 58588.15,
+        "housing": 12789.36,
+        "food": 5126.46,
+        "mandatory_fees": 1786.22,
+        "insurance": 2536.44,
+        "other_estimated_costs": 2125.61,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 60837.94,
+        "housing": 13280.48,
+        "food": 5323.32,
+        "mandatory_fees": 1854.82,
+        "insurance": 2633.84,
+        "other_estimated_costs": 2207.23,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 63174.11,
+        "housing": 13790.45,
+        "food": 5527.73,
+        "mandatory_fees": 1926.04,
+        "insurance": 2734.98,
+        "other_estimated_costs": 2291.99,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 42,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "BU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.bu.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "rutgers",
+    "name": "Rutgers University–New Brunswick",
+    "chinese_name": "罗格斯大学新布朗斯维克分校",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "school_type": "公立",
+    "website": "https://www.rutgers.edu/",
+    "description": "罗格斯大学新布朗斯维克分校，位于美国 New Brunswick。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 43150,
+      "housing": 14430,
+      "food": 5785,
+      "mandatory_fees": 2025,
+      "insurance": 2860,
+      "other_estimated_costs": 2395,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 38459.95,
+        "housing": 12861.58,
+        "food": 5156.22,
+        "mandatory_fees": 1804.9,
+        "insurance": 2549.14,
+        "other_estimated_costs": 2134.68,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 39963.74,
+        "housing": 13364.47,
+        "food": 5357.83,
+        "mandatory_fees": 1875.47,
+        "insurance": 2648.81,
+        "other_estimated_costs": 2218.15,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 41526.32,
+        "housing": 13887.02,
+        "food": 5567.32,
+        "mandatory_fees": 1948.8,
+        "insurance": 2752.38,
+        "other_estimated_costs": 2304.88,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 42,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "RU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.rutgers.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "umd",
+    "name": "University of Maryland, College Park",
+    "chinese_name": "马里兰大学帕克分校",
+    "city": "College Park",
+    "state": "MD",
+    "school_type": "公立",
+    "website": "https://www.umd.edu/",
+    "description": "马里兰大学帕克分校，位于美国 College Park。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 43700,
+      "housing": 14540,
+      "food": 5830,
+      "mandatory_fees": 2050,
+      "insurance": 2880,
+      "other_estimated_costs": 2410,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 38871.56,
+        "housing": 12933.47,
+        "food": 5185.84,
+        "mandatory_fees": 1823.49,
+        "insurance": 2561.79,
+        "other_estimated_costs": 2143.72,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 40418.65,
+        "housing": 13448.22,
+        "food": 5392.24,
+        "mandatory_fees": 1896.07,
+        "insurance": 2663.75,
+        "other_estimated_costs": 2229.04,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 42027.31,
+        "housing": 13983.46,
+        "food": 5606.85,
+        "mandatory_fees": 1971.53,
+        "insurance": 2769.76,
+        "other_estimated_costs": 2317.75,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 42,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UMD",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.umd.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uw",
+    "name": "University of Washington",
+    "chinese_name": "华盛顿大学",
+    "city": "Seattle",
+    "state": "WA",
+    "school_type": "公立",
+    "website": "https://www.washington.edu/",
+    "description": "华盛顿大学，位于美国 Seattle。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 43000,
+      "housing": 14000,
+      "food": 5800,
+      "mandatory_fees": 1800,
+      "insurance": null,
+      "other_estimated_costs": 2200,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 38171.76,
+        "housing": 12428.02,
+        "food": 5148.75,
+        "mandatory_fees": 1597.89,
+        "insurance": null,
+        "other_estimated_costs": 1952.97,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 39717.72,
+        "housing": 12931.35,
+        "food": 5357.27,
+        "mandatory_fees": 1662.6,
+        "insurance": null,
+        "other_estimated_costs": 2032.07,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 41326.29,
+        "housing": 13455.07,
+        "food": 5574.24,
+        "mandatory_fees": 1729.94,
+        "insurance": null,
+        "other_estimated_costs": 2114.37,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 42,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UW",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.washington.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "northeastern",
+    "name": "Northeastern University",
+    "chinese_name": "东北大学",
+    "city": "Boston",
+    "state": "MA",
+    "school_type": "私立",
+    "website": "https://www.northeastern.edu/",
+    "description": "东北大学，位于美国 Boston。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 67800,
+      "housing": 14760,
+      "food": 5920,
+      "mandatory_fees": 2100,
+      "insurance": 2920,
+      "other_estimated_costs": 2440,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 60065.79,
+        "housing": 13076.27,
+        "food": 5244.68,
+        "mandatory_fees": 1860.44,
+        "insurance": 2586.9,
+        "other_estimated_costs": 2161.66,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 62540.5,
+        "housing": 13615.01,
+        "food": 5460.76,
+        "mandatory_fees": 1937.1,
+        "insurance": 2693.48,
+        "other_estimated_costs": 2250.72,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 65117.17,
+        "housing": 14175.95,
+        "food": 5685.75,
+        "mandatory_fees": 2016.9,
+        "insurance": 2804.46,
+        "other_estimated_costs": 2343.45,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 46,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "NEU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.northeastern.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "purdue",
+    "name": "Purdue University–Main Campus",
+    "chinese_name": "普渡大学主校区",
+    "city": "West Lafayette",
+    "state": "IN",
+    "school_type": "公立",
+    "website": "https://www.purdue.edu/",
+    "description": "普渡大学主校区，位于美国 West Lafayette。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 45350,
+      "housing": 14870,
+      "food": 5965,
+      "mandatory_fees": 2125,
+      "insurance": 2940,
+      "other_estimated_costs": 2455,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 40095.83,
+        "housing": 13147.19,
+        "food": 5273.91,
+        "mandatory_fees": 1878.8,
+        "insurance": 2599.38,
+        "other_estimated_costs": 2170.57,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 41775.84,
+        "housing": 13698.05,
+        "food": 5494.88,
+        "mandatory_fees": 1957.52,
+        "insurance": 2708.29,
+        "other_estimated_costs": 2261.51,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 43526.25,
+        "housing": 14272.0,
+        "food": 5725.12,
+        "mandatory_fees": 2039.54,
+        "insurance": 2821.77,
+        "other_estimated_costs": 2356.27,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 46,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "PU",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.purdue.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "uga",
+    "name": "University of Georgia",
+    "chinese_name": "佐治亚大学",
+    "city": "Athens",
+    "state": "GA",
+    "school_type": "公立",
+    "website": "https://www.uga.edu/",
+    "description": "佐治亚大学，位于美国 Athens。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 45900,
+      "housing": 14980,
+      "food": 6010,
+      "mandatory_fees": 2150,
+      "insurance": 2960,
+      "other_estimated_costs": 2470,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 40500.42,
+        "housing": 13217.78,
+        "food": 5303.0,
+        "mandatory_fees": 1897.08,
+        "insurance": 2611.79,
+        "other_estimated_costs": 2179.43,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 42225.74,
+        "housing": 13780.86,
+        "food": 5528.9,
+        "mandatory_fees": 1977.89,
+        "insurance": 2723.05,
+        "other_estimated_costs": 2272.28,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 44024.55,
+        "housing": 14367.93,
+        "food": 5764.44,
+        "mandatory_fees": 2062.15,
+        "insurance": 2839.06,
+        "other_estimated_costs": 2369.08,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 46,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UGA",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.uga.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  },
+  {
+    "id": "rochester",
+    "name": "University of Rochester",
+    "chinese_name": "罗切斯特大学",
+    "city": "Rochester",
+    "state": "NY",
+    "school_type": "私立",
+    "website": "https://www.rochester.edu/",
+    "description": "罗切斯特大学，位于美国 Rochester。费用及历史涨幅均为虚构演示样例。",
+    "updated_at": "2026-10-27",
+    "cost": {
+      "tuition": 69450,
+      "housing": 15090,
+      "food": 6055,
+      "mandatory_fees": 2175,
+      "insurance": 2980,
+      "other_estimated_costs": 2485,
+      "academic_year": "2026–2027",
+      "student_category": "国际本科生",
+      "currency": "USD",
+      "is_estimate": true
+    },
+    "cost_history": [
+      {
+        "tuition": 61156.78,
+        "housing": 13288.06,
+        "food": 5331.96,
+        "mandatory_fees": 1915.28,
+        "insurance": 2624.15,
+        "other_estimated_costs": 2188.26,
+        "academic_year": "2023–2024",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 63804.87,
+        "housing": 13863.43,
+        "food": 5562.83,
+        "mandatory_fees": 1998.21,
+        "insurance": 2737.78,
+        "other_estimated_costs": 2283.01,
+        "academic_year": "2024–2025",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      },
+      {
+        "tuition": 66567.62,
+        "housing": 14463.72,
+        "food": 5803.7,
+        "mandatory_fees": 2084.73,
+        "insurance": 2856.32,
+        "other_estimated_costs": 2381.87,
+        "academic_year": "2025–2026",
+        "student_category": "国际本科生",
+        "currency": "USD",
+        "is_estimate": true
+      }
+    ],
+    "ranking": {
+      "rank": 46,
+      "edition": 2026,
+      "publisher": "U.S. News",
+      "category": "National Universities",
+      "source_url": "https://www.collegekickstart.com/blog/item/u-s-news-world-report-posts-2026-college-rankings"
+    },
+    "abbreviation": "UR",
+    "sources": [
+      {
+        "field_name": "tuition",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "housing",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "food",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "mandatory_fees",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "insurance",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      },
+      {
+        "field_name": "other_estimated_costs",
+        "source_url": "https://www.rochester.edu/",
+        "source_title": "学校官网（仅核验入口）",
+        "academic_year": "2026–2027",
+        "retrieved_at": null,
+        "verification_status": "unverified",
+        "notes": "当前及历史费用均为人为构造的虚构样例，未从官网提取，未经官方核验。"
+      }
+    ]
+  }
+]
